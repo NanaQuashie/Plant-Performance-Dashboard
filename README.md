@@ -26,8 +26,8 @@ DAX for calculated measures
 Power Query for data transformation
 
 ## 📁 Files
-Plant_Shop_Sales_Dashboard.pbix – Main Power BI report file (will update)
-<a href="https://github.com/NanaQuashie/Plant-Performance-Dashboard/blob/main/Plant_Project.xls"> Dataset </a>
+- Plant_Shop_Sales_Dashboard.pbix – Main Power BI report file (will update)
+- <a href="https://github.com/NanaQuashie/Plant-Performance-Dashboard/blob/main/Plant_Project.xls"> Dataset </a>
 
 ## 📌 How to Use
 Open the .pbix file in Power BI Desktop.
