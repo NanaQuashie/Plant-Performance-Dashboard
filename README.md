@@ -26,14 +26,8 @@ DAX for calculated measures
 Power Query for data transformation
 
 ## 📁 Files
-- Plant_Shop_Sales_Dashboard.pbix – Main Power BI report file (will update)
+- <a href="https://github.com/NanaQuashie/Plant-Performance-Dashboard/blob/main/Portfolio%20Project.pbix"> Dashboard File </a>
 - <a href="https://github.com/NanaQuashie/Plant-Performance-Dashboard/blob/main/Plant_Project.xls"> Dataset </a>
-
-## 📌 How to Use
-Open the .pbix file in Power BI Desktop.
-Use the slicers on the dashboard to filter by year and select between sales metrics.
-Interact with visuals to drill down into monthly, country, or product-level data.
-Explore the bottom 10 items and use the waterfall charts for visual comparison of performance year-over-year.
 
 ## 📬 Feedback
 If you have suggestions or spot any issues, feel free to raise an issue or contribute to the project. Your feedback is welcome!
